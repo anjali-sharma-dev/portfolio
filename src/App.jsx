@@ -1,30 +1,20 @@
-import React, { Suspense, lazy } from "react";
-import { Toaster } from "react-hot-toast";
-const Home = lazy(() => import("./components/Home"));
-// const Education = lazy(() => import("./components/Education"));
-const Skills = lazy(() => import("./components/Skills"));
-const Project = lazy(() => import("./components/Project"));
-const Contact = lazy(() => import("./components/Contact"));
-const Footer = lazy(() => import("./components/Footer"));
+import React from "react";
+import Home from "./components/Home";
+import Skills from "./components/Skills";
+import Project from "./components/Project";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 import Layout from "./components/Layout";
-
-
 
 function App() {
   return (
-    <>
-        <Layout>
-        <Suspense fallback={<div className="text-white p-6">Loading...</div>}>
-          <Home />
-          {/* <Education /> */}
-          <Skills/>
-          <Project/>
-          <Contact />
-          <Footer />
-        </Suspense>
-      </Layout>
-   
-    </>
+    <Layout>
+      <Home />
+      <Skills />
+      <Project />
+      <Contact />
+      <Footer />
+    </Layout>
   );
 }
 

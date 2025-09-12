@@ -52,17 +52,3 @@ function Skills() {
 }
 
 export default Skills;
-
-{/* <div className="grid grid-cols-2 md:grid-cols-5 gap-7 my-3">
-  {cardItem.map(({ id, logo, name }) => (
-    <div
-      className=" flex flex-col items-center justify-center   cursor-pointer hover:scale-110 duration-300"
-      key={id}
-    >
-      <img src={logo} className="md:w-[150px] rounded-full w-24" alt="" />
-      <div>
-        <div className="">{name}</div>
-      </div>
-    </div>
-  ))}
-</div> */}
