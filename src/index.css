@@ -5,7 +5,6 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  /* Elegant dark gradient with subtle grid */
   background-color: #0a0a0a;
   background-image:
     radial-gradient(at 20% 20%, rgba(16,185,129,0.15), transparent 40%),
@@ -16,7 +15,6 @@ body {
   background-attachment: fixed;
 }
 
-/* Global polish */
 html {
   scroll-behavior: smooth;
 }
@@ -26,7 +24,6 @@ html {
   color: #fff;
 }
 
-/* Subtle modern scrollbar */
 ::-webkit-scrollbar {
   width: 10px;
   height: 10px;

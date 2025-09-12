@@ -19,8 +19,6 @@ function Contact() {
             className="border border-white/10 bg-gradient-to-br from-white/5 to-transparent backdrop-blur-md w-full max-w-xl px-6 sm:px-8 py-6 rounded-2xl shadow-2xl shadow-emerald-500/10"
           >
           
-
-            {/* Name */}
             <div className="flex flex-col mb-4">
               <label className="bloc text-white">Full Name</label>
               <input
@@ -29,7 +27,6 @@ function Contact() {
               />
             </div>
 
-            {/* Email */}
             <div className="flex flex-col mb-4">
               <label className="block text-white">Email Address</label>
               <input
@@ -40,7 +37,6 @@ function Contact() {
              
             </div>
 
-            {/* Message */}
             <div className="flex flex-col mb-4">
               <label className="block text-white">Message</label>
               <textarea

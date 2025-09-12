@@ -8,7 +8,6 @@ function Education() {
       </h1>
 
       <div className="space-y-8">
-        {/* B.Tech */}
         <div className="group relative overflow-hidden rounded-2xl p-[1px]">
           <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300 bg-gradient-to-r from-emerald-500/40 via-transparent to-cyan-500/40 blur-2xl" />
           <div className="relative bg-gradient-to-br from-white/5 to-transparent border border-white/10 rounded-2xl p-6 backdrop-blur-md transform transition-transform duration-300 group-hover:-translate-y-1">
@@ -19,7 +18,6 @@ function Education() {
           </div>
         </div>
 
-        {/* Intermediate */}
         <div className="group relative overflow-hidden rounded-2xl p-[1px]">
           <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300 bg-gradient-to-r from-emerald-500/40 via-transparent to-cyan-500/40 blur-2xl" />
           <div className="relative bg-gradient-to-br from-white/5 to-transparent border border-white/10 rounded-2xl p-6 backdrop-blur-md transform transition-transform duration-300 group-hover:-translate-y-1">
@@ -30,7 +28,6 @@ function Education() {
           </div>
         </div>
 
-        {/* High School */}
         <div className="group relative overflow-hidden rounded-2xl p-[1px]">
           <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300 bg-gradient-to-r from-emerald-500/40 via-transparent to-cyan-500/40 blur-2xl" />
           <div className="relative bg-gradient-to-br from-white/5 to-transparent border border-white/10 rounded-2xl p-6 backdrop-blur-md transform transition-transform duration-300 group-hover:-translate-y-1">
