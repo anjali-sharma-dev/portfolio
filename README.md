@@ -1,6 +1,7 @@
 ## 🧑‍💻 Anjali Sharma – Full-Stack Developer Portfolio
 
-## 🔗 [Live Portfolio]([https://anjali-sharma-portfolio.vercel.app](https://anjali-me.vercel.app/))
+## 🔗 [Live Portfolio]
+([https://anjali-sharma-portfolio.vercel.app](https://anjali-me.vercel.app/))
 
 
 ## 📍 About Me
