@@ -1,8 +1,22 @@
-# React + Vite
+## 🧑‍💻 Anjali Sharma – Full-Stack Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔗 [Live Portfolio]([https://anjali-sharma-portfolio.vercel.app](https://anjali-me.vercel.app/))
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📍 About Me
+Motivated Full Stack developer. I have hands on experience in the MERN stack and in depth knowledge of Data Structure and Algorithms. My quick learing ability and passion for AI and Modern Development technologies allow me to adapt and excel in dynamic tech environment.
+
+## 🛠️ Tech Stack
+*Frontend: React.js, Tailwind CSS, Chart.js, Recharts*  
+*Backend: Node.js, Express.js, MongoDB*  
+*Scraping: Puppeteer, Cheerio, JSDOM* 
+*Tools: Postman, Docker, GitHub, Netlify*
+
+
+
+
+
+
+
+</details>
+
